@@ -1,0 +1,14 @@
+N=Doom
+D=e:\doom
+I=pic1.bmp
+E=e:\doom\doom.exe
+
+N=Doom II
+D=e:\doom2
+I=pic2.bmp
+E=e:\doom\doom2.exe
+
+N=Duke Nukem 3D
+D=e:\duke3d
+I=pic3.bmp
+E=e:\duke3d\duke3d.exe

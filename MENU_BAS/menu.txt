@@ -1,0 +1,14 @@
+N=Doom
+P=c:\games\doom
+I=c:\dostools\menu_bas\pic1.bmp
+E=c:\games\doom\doom.exe
+
+N=Doom II
+P=c:\games\doom2
+I=c:\dostools\menu_bas\pic2.bmp
+E=c:\games\doom\doom2.exe
+
+N=Duke Nukem 3D
+P=c:\games\duke3d
+I=c:\dostools\menu_bas\pic3.bmp
+E=c:\games\duke3d\duke3d.exe
