@@ -1,5 +1,5 @@
 # Introduction
-This is a collection of tools I wrote for [Project DoomBox](http://fridayfreaks.de/2017/11/19/project-doombox/)
+This is a collection of tools I wrote for [Project DoomBox](https://twitter.com/dec_hl/status/931895013553922053)
 
 They compile on [FreeDOS](http://www.freedos.org/) using [FreeBasic](https://www.freebasic.net/) and [DJGPP](http://www.delorie.com/djgpp/). I was to lazy to create 'real' Makefiles and compilation is done using simple DOS batch-files (make.bat).
 
